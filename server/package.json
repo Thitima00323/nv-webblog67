@@ -1,0 +1,18 @@
+{
+  "name": "nv-webblog-server",
+  "version": "1.0.0",
+  "description": "nodejs vuejs webblog server (backend)",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nattapon Kumyaito",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
